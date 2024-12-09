@@ -1,3 +1,4 @@
+import "../tamagui-web.css";
 import {
   DarkTheme,
   DefaultTheme,
